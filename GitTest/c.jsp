@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>마스터가 한 번 적어봅니다~!</h1>
+<h1>충돌1</h1>
 </body>
 </html>
