@@ -8,6 +8,5 @@
 </head>
 <body>
 <h1>마스터가 한 번 적어봅니다~!</h1>
-<h2>원격 master</h2>
 </body>
 </html>
