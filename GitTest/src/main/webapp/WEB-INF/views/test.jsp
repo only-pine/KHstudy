@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>지금은 브랜치 공부중입니다^-^</h1>
+<h1>지금은 브랜치 공부중입니다^-^!</h1>
 </body>
 </html>
